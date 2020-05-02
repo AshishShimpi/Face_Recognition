@@ -2,10 +2,12 @@
 
 Step 1: Collection Of Data ->
 
-Collect Dataset For Training Of Model
+Collect Dataset For the Model with collect.py
 
-Step 2: Generate Encodings(i.e. pickeling it) ->
+Step 2: Generate Encodings ->
 
-Which Consists of all face related Data
+Facial recognition encodings are generated with encode_faces.py 
 
 Step 3: Face Recognition and marking attendance into Excel
+
+with recognize.py
