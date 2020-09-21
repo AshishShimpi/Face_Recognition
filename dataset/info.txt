@@ -1,0 +1,5 @@
+create a folder of a person whose sample is to be taken  "with his/her own name "
+
+And while taking samples, give location of folder(having his /hers own name) whose sample is being taken
+
+
